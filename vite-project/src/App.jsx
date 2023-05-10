@@ -1,7 +1,18 @@
-function App() { 
+import { Post } from "./Post";
+
+const App = ()  => {
 
   return (
-    <h1>Rocketseat 01</h1>
+    <div>
+      <Post 
+        author= "Gabriel Jorge" 
+        content= "Tem mais gente feia que bonita em Madureira!"
+      />    
+      <Post 
+        author= "Thayna Jorge" 
+        content= "Gabriel está sempre atrasado!"
+      />          
+    </div>
   )
 }
 
