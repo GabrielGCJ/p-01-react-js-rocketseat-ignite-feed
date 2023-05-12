@@ -1,13 +1,23 @@
 import { Post } from "./Post";
-import { Header } from "./components/Header";
+import { Header } from "./components/Header/Header";
 import "./global.css"
+import styles from "./App.module.css"
+import { Sidebar } from "./components/Sidebar/Sidebar";
+// import { Sidebar } from "./components/Sidebar";
+
 
 const App = () => {
 
   return (
     <div>
       <Header/>
-      <Post
+      
+      
+
+      <div className={styles.wrapper}>        
+          <Sidebar/>        
+        <main>
+          <Post
         author="Gabriel Jorge"
         content="Tem mais gente feia que bonita em Madureira!"
       />
@@ -15,6 +25,8 @@ const App = () => {
         author="Thayna Jorge"
         content="Gabriel está sempre atrasado!"
       />
+        </main>
+      </div>
     </div>
   )
 }
