@@ -1,15 +1,15 @@
-import { Comment } from "../Comment/Comment"
 import styles from "./Post.module.css"
 
-export const Post = (props) => {
+import { Avatar } from "../Avatar/Avatar"
+import { Comment } from "../Comment/Comment"
 
-    // console.log(props)
+export const Post = (props) => {
 
     return (
         <article className={styles.post}>
             <header>
                 <div className={styles.author}>
-                    <img className={styles.avatar} src="https://github.com/Thaysaadj.png" />
+                    <Avatar src="https://github.com/Thaysaadj.png"/>
                     <div className={styles.authorInfo}>
                         <strong>Thayna Saad</strong>
                         <span>Web Developer</span>
