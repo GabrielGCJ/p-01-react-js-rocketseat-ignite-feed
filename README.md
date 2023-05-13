@@ -14,16 +14,25 @@ Clone este repositório em sua máquina:
 
 Entre na pasta do projeto:
 
-`cd desafio-1-rocketseat`
+`cd ignite`
 
 Instale o projeto:
 
-`yarn install`
+`npm install`
 
 Rode o projeto:
 
-`yarn dev`
+`npm run dev`
 
 Acesse o endereço localhost porta 3333 em seu navegador ou ferramenta de testes para interagir com a API:
 
-http://localhost:3333
+http://localhost:5173
+
+----
+
+![image](https://github.com/GabrielGCJ/ignite/assets/91347602/5bac651c-ec70-4097-9fd9-587a4d01c903)
+
+![image](https://github.com/GabrielGCJ/ignite/assets/91347602/15564e54-e848-451a-95de-33d3bad36b29)
+
+![image](https://github.com/GabrielGCJ/ignite/assets/91347602/9758c177-dfd1-4320-910d-461a2a9bb863)
+
