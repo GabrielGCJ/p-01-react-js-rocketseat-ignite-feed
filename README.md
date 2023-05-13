@@ -10,7 +10,7 @@ Neste projeto, criamos uma aplicação utilizando o Vite, no qual exploramos e r
 
 Clone este repositório em sua máquina:
 
-`git clone https://github.com/GabrielGCJ/desafio-1-rocketseat.git`
+`git clone https://github.com/GabrielGCJ/ignite.git`
 
 Entre na pasta do projeto:
 
