@@ -5,6 +5,8 @@ import { Comment } from "../Comment/Comment"
 
 export const Post = (props) => {
 
+    console.log(props)
+
     return (
         <article className={styles.post}>
             <header>
