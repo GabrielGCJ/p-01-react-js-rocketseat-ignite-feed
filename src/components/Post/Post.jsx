@@ -39,9 +39,9 @@ export const Post = ({ author, publishedAt, content }) => {
         setNewCommentText(event.target.value)
     }
 
-    const deleteComment = (comment) => {
+    const deleteComment = (commentToDelete) => {
         
-        const newComments = comments.filter(item => item !== comment);
+        const newComments = comments.filter(comment => comment !== commentToDelete);        
 
         setComments(newComments)
     }
