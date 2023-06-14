@@ -14,8 +14,6 @@ https://www.figma.com/community/file/1113573231685349036
 
 ![image](https://github.com/GabrielGCJ/projeto-01-react-js-rocketseat/assets/91347602/047a4b05-9ef7-413f-8ac5-a2585c7ad2d2)
 
-![image](https://github.com/GabrielGCJ/projeto-01-react-js-rocketseat/assets/91347602/b480a5e5-5c72-4e5a-9a37-ba3365ef568a)
-
 -----
 
 ### Para rodar o projeto:
