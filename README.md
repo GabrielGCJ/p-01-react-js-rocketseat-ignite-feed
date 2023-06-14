@@ -8,7 +8,7 @@ Neste projeto, criamos uma aplicação utilizando o Vite, no qual exploramos e r
 
 -----
 
-#### Este Projeto esta de acordo com este layout do Figma:
+#### Este projeto está de acordo com este layout do Figma:
 
 https://www.figma.com/community/file/1113573231685349036
 
