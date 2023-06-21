@@ -20,11 +20,11 @@ https://www.figma.com/community/file/1113573231685349036
 
 Clone este repositório em sua máquina:
 
-`git clone https://github.com/GabrielGCJ/ignite.git`
+`git clone https://github.com/GabrielGCJ/projeto-01-react-js-rocketseat.git`
 
 Entre na pasta do projeto:
 
-`cd ignite`
+`cd projeto-01-react-js-rocketseat`
 
 Instale o projeto:
 
