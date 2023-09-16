@@ -21,21 +21,29 @@ https://www.figma.com/community/file/1113573231685349036
 
 ### Para rodar o projeto:
 
-Clone este repositório em sua máquina:
+>Clone este repositório em sua máquina:
 
-`git clone https://github.com/GabrielGCJ/p-01-react-js-rocketseat-ignite-feed.git`
+```
+git clone https://github.com/GabrielGCJ/p-01-react-js-rocketseat-ignite-feed.git
+```
 
-Entre na pasta do projeto:
+>Entre na pasta do projeto:
 
-`cd p-01-react-js-rocketseat-ignite-feed`
+```
+cd p-01-react-js-rocketseat-ignite-feed
+```
 
-Instale o projeto:
+>Instale o projeto:
 
-`npm install`
+```
+npm install
+```
 
-Rode o projeto:
+>Rode o projeto:
 
-`npm run dev`
+```
+npm run dev
+```
 
 Acesse o endereço localhost porta 3001 em seu navegador ou ferramenta de testes para interagir com a API:
 
