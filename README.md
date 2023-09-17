@@ -4,7 +4,7 @@ Este é o primeiro projeto da Rocket Ignite com ReactJS, um programa de capacita
 
 ![image](https://github.com/GabrielGCJ/ignite/assets/91347602/7b21310b-45a4-4794-80c0-bc4f4e65f244)
 
-Neste projeto, criamos uma aplicação utilizando o Vite, no qual exploramos e relembramos conceitos fundamentais, tais como componentização, props (propriedades), estados, imutabilidade e hooks.
+#### Neste projeto, criamos uma aplicação utilizando o Vite, no qual exploramos e relembramos conceitos fundamentais, tais como componentização, props (propriedades), estados, imutabilidade e hooks.
 ----
 # <a href="https://gb-ignite-feed.surge.sh">Ignite Feed</a>
 
